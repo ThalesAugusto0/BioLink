@@ -1,7 +1,7 @@
 # BioLink for Thales Augusto
 ============================
 
-![thumbnail](./thumbnail.png)
+![thumbnail](./thumb2.png)
 
 ## License
 
